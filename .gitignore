@@ -1,0 +1,8 @@
+compartir/datasets/imagenes/*
+compartir/datasets/imagenesProcesadas/*
+compartir/datasets/imagenesDescomprimidas/*
+
+compartir/**/*.tar.gz
+compartir/**/*.txt
+
+**/.DS_Store
